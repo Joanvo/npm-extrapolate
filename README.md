@@ -8,7 +8,7 @@ Based on AlexanderBrevig/Extrapolate.js code
 
 #Usage
 
-    var extrap = require('./index.js');
+    var extrap = require('extrapolate');
     
     //create an object for training
     var extrapolate = new extrap();
