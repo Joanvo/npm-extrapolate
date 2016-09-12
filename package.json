@@ -1,0 +1,25 @@
+{
+  "name": "npm-extrapolate",
+  "version": "1.0.0",
+  "description": "Linear and polynomial extrapolation from given values",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Joanvo/npm-extrapolate.git"
+  },
+  "keywords": [
+    "extrapolation",
+    "extrapolate",
+    "polynomial",
+    "linear"
+  ],
+  "author": "Joan Verdaguer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Joanvo/npm-extrapolate/issues"
+  },
+  "homepage": "https://github.com/Joanvo/npm-extrapolate#readme"
+}
