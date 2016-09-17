@@ -1,5 +1,5 @@
 {
-  "name": "npm-extrapolate",
+  "name": "extrapolate",
   "version": "1.0.0",
   "description": "Linear and polynomial extrapolation from given values",
   "main": "index.js",
