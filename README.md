@@ -6,6 +6,8 @@ Based on AlexanderBrevig/Extrapolate.js code
 
 #Installation
 
+    npm install extrapolate
+
 #Usage
 
     var extrap = require('extrapolate');
