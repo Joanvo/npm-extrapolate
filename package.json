@@ -1,6 +1,6 @@
 {
   "name": "extrapolate",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Linear and polynomial extrapolation from original values",
   "main": "index.js",
   "scripts": {
