@@ -14,7 +14,7 @@ Based on AlexanderBrevig/Extrapolate.js code
     
     //create an object for training
     var extrapolate = new extrap();
-    // for this example, ket's keep it simple
+    // for this example, let's keep it simple
     // f(x) = 2x
     extrapolate.given(0,0);
     extrapolate.given(1,2);
